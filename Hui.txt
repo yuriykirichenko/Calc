@@ -1,1 +1,2 @@
 println("pft,fk ,kznm? e dct[ hf,jnftnn yf dbljcbrf[ ? f e vtyz ,kznm dc` rfr dctulf!!!!")
+println("мать ебал всех индусов которые нихуя не делают видосики нормовые блять заебался")
